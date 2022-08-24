@@ -95,7 +95,7 @@ function myFunction(j,i) {
         document.getElementById("arrow5").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
         arrow5 = true;
     }
-    else if(i==5 && arrow4==true){
+    else if(i==5 && arrow5==true){
         document.getElementById("arrow5").src = "https://i.ibb.co/C0RpK6Q/20140611-CBP-Icon-animation.jpg"
         arrow5 = false;
     }
@@ -103,7 +103,7 @@ function myFunction(j,i) {
         document.getElementById("arrow6").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
         arrow6 = true
     }
-    else if(i==6 && arrow4==true){
+    else if(i==6 && arrow6==true){
         document.getElementById("arrow6").src = "https://i.ibb.co/C0RpK6Q/20140611-CBP-Icon-animation.jpg"
         arrow6 = false;
     }
