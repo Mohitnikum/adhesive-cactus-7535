@@ -60,7 +60,7 @@ function myFunction(j,i) {
         document.getElementById("myDropdown6").classList.toggle("show");
     }
     if(i==1 && arrow1==false){
-        document.getElementById("arrow1").src = "https://i.ibb.co/kJzk8pS/Real.jpg";
+        document.getElementById("arrow1").src = "https://i.ibb.co/NjP5Tsj/Real.png";
         arrow1 = true;
     }
     else if(i==1 && arrow1==true){
@@ -68,7 +68,7 @@ function myFunction(j,i) {
         arrow1 = false;
     }
     if(i==2 && arrow2==false){
-        document.getElementById("arrow2").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
+        document.getElementById("arrow2").src = "https://i.ibb.co/NjP5Tsj/Real.png"
         arrow2 = true;
     }
     else if(i==2 && arrow2==true){
@@ -76,7 +76,7 @@ function myFunction(j,i) {
         arrow2 = false;
     }
     if(i==3 && arrow3==false){
-        document.getElementById("arrow3").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
+        document.getElementById("arrow3").src = "https://i.ibb.co/NjP5Tsj/Real.png"
         arrow3 = true;    
     }
     else if(i==3 && arrow3==true){
@@ -84,26 +84,26 @@ function myFunction(j,i) {
         arrow3 = false;
     }
     if(i==4 && arrow4==false){
-        document.getElementById("arrow4").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
+        document.getElementById("arrow4").src = "https://i.ibb.co/NjP5Tsj/Real.png"
         arrow4 = true
     }
-    else if(i==4 && arrow3==true){
+    else if(i==4 && arrow4==true){
         document.getElementById("arrow4").src = "https://i.ibb.co/C0RpK6Q/20140611-CBP-Icon-animation.jpg"
         arrow4 = false;
     }
     if(i==5 && arrow5==false){
-        document.getElementById("arrow5").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
+        document.getElementById("arrow5").src = "https://i.ibb.co/NjP5Tsj/Real.png"
         arrow5 = true;
     }
-    else if(i==5 && arrow3==true){
+    else if(i==5 && arrow5==true){
         document.getElementById("arrow5").src = "https://i.ibb.co/C0RpK6Q/20140611-CBP-Icon-animation.jpg"
         arrow5 = false;
     }
     if(i==6 && arrow6==false){
-        document.getElementById("arrow6").src = "https://i.ibb.co/kJzk8pS/Real.jpg"
+        document.getElementById("arrow6").src = "https://i.ibb.co/NjP5Tsj/Real.png"
         arrow6 = true
     }
-    else if(i==6 && arrow3==true){
+    else if(i==6 && arrow6==true){
         document.getElementById("arrow6").src = "https://i.ibb.co/C0RpK6Q/20140611-CBP-Icon-animation.jpg"
         arrow6 = false;
     }
